@@ -3,7 +3,6 @@ import 'package:jobfinder_app/Screens/Jobs.dart';
 import 'package:jobfinder_app/Screens/JobDescription.dart';
 import 'Constants.dart';
 
-//EnterScreen Widgets
 class JobCard extends StatelessWidget {
   const JobCard({
     Key key,
@@ -130,7 +129,6 @@ class CategoryCard extends StatelessWidget {
     );
   }
 }
-//Jobs Widgets
 class JobSummary extends StatelessWidget {
   const JobSummary({
     Key key,
@@ -211,7 +209,6 @@ class JobSummary extends StatelessWidget {
     );
   }
 }
-//JobDescription Widgets
 class ApplyCard extends StatelessWidget {
   const ApplyCard({
     Key key,
